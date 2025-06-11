@@ -101,10 +101,6 @@ const aymane = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=50"/>
-</div>
-
 ---
 
 <div align="center">
