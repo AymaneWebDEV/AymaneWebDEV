@@ -80,12 +80,11 @@ const aymane = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AymaneWebDEV/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AymaneWebDEV&repo=project1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
-  </a>
-  <a href="https://github.com/AymaneWebDEV/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AymaneWebDEV&repo=project2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
-  </a>
+  
+🚀 **Coming Soon!** - I'm currently working on some exciting projects that will be showcased here soon.
+
+*Stay tuned for innovative web applications and AI-powered solutions!*
+
 </div>
 
 ## 🤝 Let's Connect & Collaborate!
