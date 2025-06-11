@@ -11,7 +11,7 @@
 - Backend: Node.js, Python, PHP, Laravel
 - Databases: MySQL, MongoDB, SQLite
 - Tools: Git, Docker, Proxmox, Linux
-- Cloud: AWS, Azure (learning)
+- Cloud: AWS, Azure
 
 🔭 Current Projects
 - Building a modern portfolio with React and Framer Motion
@@ -21,8 +21,8 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymaneWebDEV&show_icons=true&theme=radical)](https://github.com/AymaneWebDEV)
 
 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-aymane-harty-791823308)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-aymane-harty-791823308)
+[![X](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aymane_harty)
 
 <!---
 AymaneWebDEV/AymaneWebDEV is a ✨ special ✨ repository because its [README.md](cci:7://file:///c:/Users/LENOVO/OneDrive/Bureau/Portfolio-Aymane/my-portfolio/README.md:0:0-0:0) (this file) appears on your GitHub profile.
